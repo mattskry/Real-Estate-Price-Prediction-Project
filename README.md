@@ -8,6 +8,7 @@ The following data science concepts are used in this project:
 * Data loading and cleaning
 * Outlier detection and removal
 * Feature engineering
+* Data Scaling and Normalization
 * Dimensionality reduction
 * GridSearchCV for hyperparameter tunning
 * K-Fold cross validation 
