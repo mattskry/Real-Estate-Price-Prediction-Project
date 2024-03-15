@@ -22,9 +22,9 @@ Technology and tools used in this project:
 * HTML/CSS/Javascript for UI
 
 ## Steps
-1. We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com.
-2. Second step would be to write a python flask server that uses the saved model to serve http requests.
-3. Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. 
+1. We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. ([model folder](model))
+2. Second step would be to write a python flask server that uses the saved model to serve http requests. ([server folder](server))
+3. Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. ([client folder](client))
 
   ```
   Step#1: Import the required libraries
