@@ -17,7 +17,7 @@ Technology and tools used in this project:
 * Numpy and Pandas for data cleaning
 * Matplotlib for data visualization
 * Sklearn for model building
-* Jupyter Notebook via Visual Studio Code
+* Jupyter Notebook, Visual Studio Code and PyCharm as IDE
 * Python flask for http server
 * HTML/CSS/Javascript for UI
 
